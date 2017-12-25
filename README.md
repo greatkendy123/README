@@ -339,3 +339,21 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 [weibo-logo]:/img/weibo.png "点击图片进入我的微博"
 [csdn-logo]:/img/csdn.png "我的CSDN博客"
 [foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
+
+
+
+ 
+* **技术选型：** [Vue2](https://cn.vuejs.org/v2/api/) + [ElementUI2](http://element-cn.eleme.io/#/zh-CN/component/container) + [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)   
+* **参考模板：** [vue.js和element 搭建的一个后台管理界面](https://www.cnblogs.com/taylorchen/p/6083099.html) 
+* **环境安装：** [vue.js在windows本地下搭建环境和创建项目](http://makaidong.com/zerofc/0/35158_3283379.html)  
+* **目录结构：** [目录结构层次关系说明](http://www.jb51.net/article/111658.htm)  
+* **跨域问题：** [解决前后端独立开发时的跨域问题](http://www.jianshu.com/p/95b2caf7e0da)  
+* **项目集成：** [打包前端代码并与Eclipse后台项目集成](https://www.cnblogs.com/hi-shepherd/p/6911098.html)  
+
+
+**模板效果**  
+![theme-blue](https://raw.githubusercontent.com/taylorchen709/markdown-images/master/vueadmin/rec-demo.gif)
+
+
+
+
